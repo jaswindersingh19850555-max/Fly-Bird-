@@ -1,2 +1,10 @@
-# Fly-Bird-
-A fun 2D Flappy Bird style game developed for Android
+# Fly-Bird
+
+A simple browser Flappy Bird-style game.
+
+## Run
+Open `index.html` in a browser.
+
+## Controls
+- Tap/click the game
+- Press Space to fly
